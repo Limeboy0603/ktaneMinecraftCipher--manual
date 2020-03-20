@@ -2,7 +2,7 @@
   "Author": "Limeboy, Katarina, BananaLord",
   "Compatibility": "Compatible",
   "DefuserDifficulty": "Hard",
-  "Description": "Decode a message in Standard Galatic Alphabet and return an encoded message. Tags: fmn, fe, symbol",
+  "Description": "Decode a message in Standard Galatic Alphabet and return an encoded message. Tags: 2-screens, keyboard, 28-buttons",
   "ExpertDifficulty": "Hard",
   "ModuleID": "minecraftcipher",
   "Name": "Minecraft Cipher",
@@ -12,5 +12,9 @@
   "SourceUrl": "https://github.com/Limeboy0603/ktaneMinecraftCipher-master",
   "Souvenir": { "Status": "NotACandidate" },
   "SteamID": "2025146518",
+  "TwitchPlays": {
+    "Score": 0,
+    "ScorePerModule": 0
+  },
   "Type": "Regular"
 }
